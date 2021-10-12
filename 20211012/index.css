@@ -1,0 +1,11 @@
+nav {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
