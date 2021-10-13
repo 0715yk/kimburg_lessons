@@ -9,3 +9,16 @@ footer {
   align-items: center;
   justify-content: center;
 }
+
+dt,
+dd {
+  display: inline-block;
+}
+
+dd {
+  margin-left: unset;
+}
+
+dl {
+  margin-left: 2rem;
+}
